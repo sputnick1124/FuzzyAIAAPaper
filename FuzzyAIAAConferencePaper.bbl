@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{kosko:91bk}
+Kosko, B., {\em Fuzzy Thinking, The New Sciencs of Fuzzy Logic\/}, Hyperion,
+  NY, 1994.
+
+\bibitem{matlab:12tb}
+The MathWorks Inc, Natick, Massachusetts, United States, {\em MATLAB and Fuzzy
+  Logic Toolbox Release 2012b\/}, 2012.
+
+\end{thebibliography}
